@@ -1,0 +1,6 @@
+[submodule "w1/d2"]
+	path = w1/d2
+	url = https://github.com/hiro9108/intro-to-computing.git
+[submodule "w3/d4/functions_assignment"]
+	path = w3/d4/functions_assignment
+	url = https://github.com/hiro9108/ciccc-intro-to-computing.git
